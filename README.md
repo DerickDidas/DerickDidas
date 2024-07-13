@@ -1,9 +1,9 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.bing.com/images/search?view=detailV2&ccid=NfWRG2dh&id=D7DA7A995C1A7A4FE44D291ED13113558AC33513&thid=OIP.NfWRG2dh7NKS4O6bhZa2nwHaEK&mediaurl=https%3A%2F%2Fcdna.artstation.com%2Fp%2Fassets%2Fimages%2Fimages%2F028%2F102%2F058%2Foriginal%2Fpixel-jeff-matrix-s.gif%3F1593487263&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.35f5911b6761ecd292e0ee9b8596b69f%3Frik%3DEzXDilUTMdEeKQ%26pid%3DImgRaw%26r%3D0&exph=900&expw=1600&q=conding+banner+gif&simid=607986809510390926&form=IRPRST&ck=820C9020C3A919B71D360F26FC2AA88A&selectedindex=46&itb=0&vt=2&sim=11))
-
+![MasterHead](https://th.bing.com/th/id/R.35f5911b6761ecd292e0ee9b8596b69f?rik=EzXDilUTMdEeKQ&pid=ImgRaw&r=0)
 <h1 align="center">Hi👋, I'm Derick Didas</h1>
 <h3 align="center">I'm a software Engineer based in China.</h3>
 
-img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/ea4824240587d8d0d7fea6a17cca6eccc531abb1f5329d6971b07595c96e80fa/68747470733a2f2f70726f6772616d6d696e67696e73696465722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032332f31302f746563686965732e676966"
+<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" alt="Coding" width="400">
+img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=derickdidas&label=Profile%20views&color=0e75b6&style=flat" alt="derickdidas" /> </p>
 
