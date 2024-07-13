@@ -1,8 +1,8 @@
-![MasterHead](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)
+![MasterHead](https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif)
 <h1 align="center">Hi, I'm Derick Didas</h1>
 <h3 align="center">I'm a software Engineer based in China.</h3>
 
-<img align="center" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" alt="Coding" width="400">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=derickdidas&label=Profile%20views&color=0e75b6&style=flat" alt="derickdidas" /> </p>
 
@@ -21,3 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=derickdidas&show_icons=true&locale=en" alt="derickdidas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=derickdidas&" alt="derickdidas" /></p>
+
