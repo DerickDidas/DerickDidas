@@ -1,9 +1,8 @@
-![MasterHead](https://th.bing.com/th/id/R.35f5911b6761ecd292e0ee9b8596b69f?rik=EzXDilUTMdEeKQ&pid=ImgRaw&r=0)
-<h1 align="center">Hi👋, I'm Derick Didas</h1>
+![MasterHead](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)
+<h1 align="center">Hi, I'm Derick Didas</h1>
 <h3 align="center">I'm a software Engineer based in China.</h3>
 
-<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" alt="Coding" width="400">
-img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif"
+<img align="center" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" alt="Coding" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=derickdidas&label=Profile%20views&color=0e75b6&style=flat" alt="derickdidas" /> </p>
 
