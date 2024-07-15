@@ -69,8 +69,8 @@
 
 ## Connect with me
 <p align="center">
-<a href="https://api.whatsapp.com/send/?phone=8616668105630&text&app_absent=0" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="WhatsApp"/>
+<a href="https://mail.google.com/mail/u/?authuser=www.derickdidas1@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail"/>
  <a href="https://instagram.com/lil_dice.x" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/>
 <a href="https://api.whatsapp.com/send/?phone=8616668105630&text&app_absent=0" target="_blank">
