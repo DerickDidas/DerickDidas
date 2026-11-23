@@ -23,7 +23,7 @@
 - Studying **Software Engineering** at **Zhengzhou University, China** (2023–2027).
 - Interested in building backend applications, working with data, and deploying software services.
 - Practical experience with Python, Java, SQL databases, REST APIs, Docker, and Linux.
-- Recipient of the **Henan Provincial Government Scholarship**.
+
 
 ### Languages and Tools
 
