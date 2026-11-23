@@ -82,5 +82,5 @@
 ### Connect
 
 - LinkedIn: [linkedin.com/in/derick-didas](https://www.linkedin.com/in/derick-didas/)
-- Email: [www.derickdidas1@gmail.com](mailto:derickdidas1@gmail.com)
+- Email: [www.derickdidas1@gmail.com](mailto:www.derickdidas1@gmail.com)
 - GitHub: [github.com/DerickDidas](https://github.com/DerickDidas)
